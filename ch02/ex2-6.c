@@ -16,6 +16,7 @@ int main(void)
     /* 严格来说，这里需要判断s>100，因暂时未学if条件判断，故不考虑 */
 
     printf("该物体前%d秒下落的距离为%d", t, s);
+    printf("test")
 
     return 0;
 }
